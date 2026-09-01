@@ -233,6 +233,11 @@ If you find this project helpful, please consider giving it a star! ⭐
 
 ---
 
+## Tutorial
+
+https://softwarejournal.blog/blog/advanced-screen-recorder-python-tkinter-opencv/
+
+
 **Made with ❤️ by [azario0](https://github.com/azario0)**
 
 *Built for creators, developers, and educators who need reliable screen recording.*
